@@ -61,7 +61,7 @@
       class="banner-image w-100 vh-100 d-flex justify-content-center align-items-center"
     >
       <div class="content text-center">
-        <h1 class="text-white">YNV</h1>
+        <h1 class="text-white"></h1>
       </div>
     </div>
 
