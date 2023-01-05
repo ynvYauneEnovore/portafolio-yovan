@@ -1,0 +1,6 @@
+#btn-fixed {/*Se declara un boton fijo*/
+	display: block;/*Hace que la imagen sera como un bloque de linea mas*/
+	position: fixed;/*Su posicion es fija*/
+  bottom: 10px;/*Establece el borde inferior del elemento*/
+	left: 10px;/*Se coloca de lado derecho*/
+}
